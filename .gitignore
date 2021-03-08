@@ -286,3 +286,10 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+.vscode/launch.json
+.vscode/tasks.json
+Hands-on lab/lab-files/starter-project/.vscode/extensions.json
+Hands-on lab/lab-files/starter-project/.vscode/launch.json
+Hands-on lab/lab-files/starter-project/.vscode/settings.json
+Hands-on lab/lab-files/starter-project/.vscode/tasks.json
+.gitignore
